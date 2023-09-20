@@ -1,3 +1,8 @@
+/*Question:
+ * Write a program to accept the marks and names of the 10 students, and give the grade according to the marks 
+
+*/
+
 import java.util.*;
 
 public class SwitchEx {
